@@ -27,23 +27,6 @@ EC2
 * AWS CodeDeploy
 * AWS EC2
 
-## Current Progress
-
-### CI
-
-* [x] Create Flask application
-* [ ] Test application locally
-* [ ] Push source code to GitHub
-* [ ] Configure AWS CodeBuild
-* [ ] Run build and validation
-
-### CD
-
-* [ ] Configure AWS CodeDeploy
-* [ ] Configure EC2 deployment environment
-* [ ] Deploy application
-* [ ] Verify application on EC2
-
 ## Application
 
 The application contains a simple endpoint:
